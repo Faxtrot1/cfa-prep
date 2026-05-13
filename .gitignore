@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Build scripts (not needed for deployment)
+parse_pdfs.py
+enrich_questions.py
+extract_exhibits.py
+extract_tables_logic.py
+test_*.py
+exhibit1_test.png
+
+# OS
+.DS_Store
+Thumbs.db

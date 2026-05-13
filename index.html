@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+  <meta name="description" content="CFA Level II exam preparation platform with spaced repetition, progress tracking, and 500+ practice questions">
+  <meta name="theme-color" content="#0a0e1a">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <title>CFA Level II Prep</title>
+  <link rel="stylesheet" href="styles.css">
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>📚</text></svg>">
+</head>
+<body>
+  <div class="app-container">
+    <!-- PIN Lock Screen -->
+    <div id="pin-screen" class="screen active">
+      <div class="app-header" style="padding-top: 80px;">
+        <div class="app-logo">CFA Institute</div>
+        <h1 class="app-title">Level II Prep</h1>
+        <p class="app-subtitle" style="margin-bottom: 40px;">Enter PIN to continue</p>
+      </div>
+      <div style="max-width: 280px; margin: 0 auto;">
+        <input type="password" id="pin-input" inputmode="numeric" pattern="[0-9]*" maxlength="6"
+               placeholder="••••" autocomplete="off"
+               style="width:100%; padding:16px; text-align:center; font-size:1.5rem; letter-spacing:8px;
+                      background:rgba(255,255,255,0.04); border:1.5px solid rgba(255,255,255,0.1);
+                      border-radius:12px; color:#f1f5f9; font-family:inherit; outline:none;">
+        <button id="pin-submit" class="btn btn-primary btn-full" style="margin-top:16px;">
+          Unlock
+        </button>
+        <p id="pin-error" style="color:#ef4444; font-size:0.8rem; text-align:center; margin-top:12px; display:none;">
+          Incorrect PIN
+        </p>
+      </div>
+    </div>
+
+    <!-- Dashboard Screen -->
+    <div id="dashboard-screen" class="screen">
+      <div class="app-header">
+        <div class="app-logo">CFA Institute</div>
+        <h1 class="app-title">Level II Prep</h1>
+        <p class="app-subtitle">Loading<span class="loading-dots"><span></span><span></span><span></span></span></p>
+      </div>
+    </div>
+
+    <!-- Question Screen -->
+    <div id="question-screen" class="screen"></div>
+
+    <!-- Stats Screen -->
+    <div id="stats-screen" class="screen"></div>
+  </div>
+
+  <script src="app.js"></script>
+</body>
+</html>
