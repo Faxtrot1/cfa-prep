@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "totalQuestions": 496,
+    "totalQuestions": 503,
     "sources": [
       "Practice Pack",
       "Schweser Mock 1",
@@ -294,6 +294,30 @@
       "context": "Bella Stone, CFA, is analyzing investment opportunities in Astair, an emerging market.\nShe notes that at a recent congressional hearing, Mr. Adel Mahi, the chief economic\nadvisor to the prime minister, stated that Astair's capital accumulation affects the size\nof the Astair's GDP but not its growth rate.\nAll commercial and financial market regulations are the domain of federal agencies\nand government recognized self-regulatory organizations (SROs). In this regard, the\nfederal government tends to set minimum standards and allows each state to create\nagencies to enforce their regulations.\nWhile discussing international parity conditions with an intern, Stone makes the\nfollowing statements.\nStatement 1:\nAbsolute purchasing power parity extends the law of\none price and states that a basket of goods should have\nthe same price throughout the world. Absolute\npurchasing power parity is not widely used in practice\nto forecast exchange rates.\nStatement 2:\nAlthough relative purchasing power parity is useful as\nan input for long-run exchange rate forecasts, it is not\nuseful for predicting short-run currency values.\nStatement 3:\nFor uncovered interest rate parity to hold, the forward\nrate must be an unbiased predictor of the future spot\nrate."
     },
     {
+      "id": "Schweser_Mock_1_q12",
+      "questionNumber": 12,
+      "questionId": "",
+      "source": "Schweser Mock 1",
+      "topic": "Economics",
+      "vignette": "Bella Stone, CFA, is analyzing investment opportunities in Astair, an emerging market.\nShe notes that at a recent congressional hearing, Mr. Adel Mahi, the chief economic\nadvisor to the prime minister, stated that Astair's capital accumulation affects the size\nof the Astair's GDP but not its growth rate.\nAll commercial and financial market regulations are the domain of federal agencies\nand government recognized self-regulatory organizations (SROs). In this regard, the\nfederal government tends to set minimum standards and allows each state to create\nagencies to enforce their regulations.\nWhile discussing international parity conditions with an intern, Stone makes the\nfollowing statements.\nStatement 1:\nAbsolute purchasing power parity extends the law of\none price and states that a basket of goods should have\nthe same price throughout the world. Absolute\npurchasing power parity is not widely used in practice\nto forecast exchange rates.\nStatement 2:\nAlthough relative purchasing power parity is useful as\nan input for long-run exchange rate forecasts, it is not\nuseful for predicting short-run currency values.\nStatement 3:\nFor uncovered interest rate parity to hold, the forward\nrate must be an unbiased predictor of the future spot\nrate.",
+      "vignetteId": "Schweser_Mock_1_v9-12",
+      "question": "Stone's statement 3 is most likely:",
+      "options": {
+        "A": "correct. Question ID: 1513229",
+        "B": "incorrect as uncovered interest rate parity holds only if real interest rate parity holds",
+        "C": "incorrect as uncovered interest rate parity holds only if covered interest rate parity holds"
+      },
+      "correctAnswer": "A",
+      "explanation": "When the expected future spot rate is equal to the forward rate (and given that\ncovered interest parity always holds—by arbitrage), uncovered interest rate parity\nshould hold as well. The international Fisher relationship links relative purchasing\npower parity to uncovered interest rate parity. Real interest rate parity links the\nFisher effect to the international Fisher relationship.",
+      "module": "Module 5.2",
+      "los": "LOS 5.f",
+      "vignetteImages": [
+        "data/exhibits/Schweser_Mock_1_vig_q9-12_p0.png",
+        "data/exhibits/Schweser_Mock_1_vig_q9-12_p1.png"
+      ],
+      "context": "Bella Stone, CFA, is analyzing investment opportunities in Astair, an emerging market.\nShe notes that at a recent congressional hearing, Mr. Adel Mahi, the chief economic\nadvisor to the prime minister, stated that Astair's capital accumulation affects the size\nof the Astair's GDP but not its growth rate.\nAll commercial and financial market regulations are the domain of federal agencies\nand government recognized self-regulatory organizations (SROs). In this regard, the\nfederal government tends to set minimum standards and allows each state to create\nagencies to enforce their regulations.\nWhile discussing international parity conditions with an intern, Stone makes the\nfollowing statements.\nStatement 1:\nAbsolute purchasing power parity extends the law of\none price and states that a basket of goods should have\nthe same price throughout the world. Absolute\npurchasing power parity is not widely used in practice\nto forecast exchange rates.\nStatement 2:\nAlthough relative purchasing power parity is useful as\nan input for long-run exchange rate forecasts, it is not\nuseful for predicting short-run currency values.\nStatement 3:\nFor uncovered interest rate parity to hold, the forward\nrate must be an unbiased predictor of the future spot\nrate."
+    },
+    {
       "id": "Schweser_Mock_1_q14",
       "questionNumber": 14,
       "questionId": "1513237",
@@ -410,6 +434,30 @@
       "explanation": "We are told that the firm has significant investment in R&D, suggesting the existence\nof intangible assets that are not reflected in Sigma's book value; hence, the price-tobook value ratio may be misleading. Sigma's cost structure is different from that of\nits peers, so use of price-to-sales ratio may not be directly comparable. The price-tocash-flow ratio is most appropriate here because cash flow is less prone to\nmanipulation and less likely to be distorted by differences in accounting practices.",
       "module": "Module 22.3",
       "los": "LOS 22.c",
+      "vignetteImages": [
+        "data/exhibits/Schweser_Mock_1_vig_q17-20_p0.png",
+        "data/exhibits/Schweser_Mock_1_vig_q17-20_p1.png"
+      ],
+      "context": "Brightscore Investments is a boutique wealth management firm. One of Brightscore's\nequity analysts, Marie Swift, CFA, recently held a meeting with the senior partners to\ndiscuss a relatively new model the firm is implementing to determine the P/E ratios of\ncompanies that Brightscore researches.\nSwift explains that the model utilizes a cross-sectional regression using the previous\nyear-end data of a group of comparable companies' P/E ratios against their dividend\npayout ratios (payout ratio), sustainable growth rates (g), and returns on equity (ROE).\nThe resulting regression equation is used to determine a predicted P/E ratio for the\nsubject company using the subject company's most recent year-end data. Swift has\ndeveloped the following model, which has an R-squared of 81%, for the\nsemiconductor industry (16 companies):\npredicted P/E = 2.74 + 8.21(payout ratio) + 14.21(g) + 2.81(ROE)\n(STD error)\n(2.11) (6.52)\n(9.24)\n(2.10)\nSwift collects data on three companies as shown in Exhibit 1.\nExhibit 1: Selected Financial Information\nA\nB\nC\nEPS\n$2.00 $4.00 $3.00\nDPS\n$0.50 $1.60 $1.50\nROE\n20%\n15%\n13%\nRequired rate of return 20%\n12%\n10%\nSwift is following Sigma, Inc., a chipmaker for wearable devices. Sigma has invested\nsignificantly in R&D since its inception and that expenditure is finally bearing fruit: the\ncompany is now profitable. Sigma correctly expenses the R&D expenditure when\nincurred. Relative to its competitors, Sigma pays a lower share of gross revenue to its\nindependent contractors. However, Sigma does pay contractors annual bonuses\nbased on their number of years of affiliation with the company.\nSwift is also analyzing Safe Bank, a regional bank holding company. Safe Bank is\nexpected to have an earnings growth rate of 3% going forward and its ROE is 12%.\nCurrent BVPS is $50."
+    },
+    {
+      "id": "Schweser_Mock_1_q19",
+      "questionNumber": 19,
+      "questionId": "1513258",
+      "source": "Schweser Mock 1",
+      "topic": "Equity Valuation",
+      "vignette": "Brightscore Investments is a boutique wealth management firm. One of Brightscore's\nequity analysts, Marie Swift, CFA, recently held a meeting with the senior partners to\ndiscuss a relatively new model the firm is implementing to determine the P/E ratios of\ncompanies that Brightscore researches.\nSwift explains that the model utilizes a cross-sectional regression using the previous\nyear-end data of a group of comparable companies' P/E ratios against their dividend\npayout ratios (payout ratio), sustainable growth rates (g), and returns on equity (ROE).\nThe resulting regression equation is used to determine a predicted P/E ratio for the\nsubject company using the subject company's most recent year-end data. Swift has\ndeveloped the following model, which has an R-squared of 81%, for the\nsemiconductor industry (16 companies):\npredicted P/E = 2.74 + 8.21(payout ratio) + 14.21(g) + 2.81(ROE)\n(STD error)\n(2.11) (6.52)\n(9.24)\n(2.10)\nSwift collects data on three companies as shown in Exhibit 1.\nExhibit 1: Selected Financial Information\nA\nB\nC\nEPS\n$2.00 $4.00 $3.00\nDPS\n$0.50 $1.60 $1.50\nROE\n20%\n15%\n13%\nRequired rate of return 20%\n12%\n10%\nSwift is following Sigma, Inc., a chipmaker for wearable devices. Sigma has invested\nsignificantly in R&D since its inception and that expenditure is finally bearing fruit: the\ncompany is now profitable. Sigma correctly expenses the R&D expenditure when\nincurred. Relative to its competitors, Sigma pays a lower share of gross revenue to its\nindependent contractors. However, Sigma does pay contractors annual bonuses\nbased on their number of years of affiliation with the company.\nSwift is also analyzing Safe Bank, a regional bank holding company. Safe Bank is\nexpected to have an earnings growth rate of 3% going forward and its ROE is 12%.\nCurrent BVPS is $50.",
+      "vignetteId": "Schweser_Mock_1_v17-20",
+      "question": "Which of the following is least appropriate regarding the use of standardized\nunexpected earnings?",
+      "options": {
+        "A": "A given size forecast error is more meaningful the lower the size of historical forecast errors",
+        "B": "SUE divides earnings surprise by the standard deviation of earnings",
+        "C": "The economic rationale for examining earnings surprises is that positive surprises may lead to persistent positive abnormal returns"
+      },
+      "correctAnswer": "B",
+      "explanation": "SUE divides earnings surprise by the standard deviation of earnings surprise. Other\nstatements are accurate.",
+      "module": "Module 22.4",
+      "los": "LOS 22.q",
       "vignetteImages": [
         "data/exhibits/Schweser_Mock_1_vig_q17-20_p0.png",
         "data/exhibits/Schweser_Mock_1_vig_q17-20_p1.png"
@@ -816,7 +864,8 @@
       "question": "Did Sampson and/or Lawson violate the CFA Institute Standards of Professional\nConduct with respect to presenting the TIM biographies to the client?",
       "options": {
         "A": "Yes, both Sampson and Lawson violated the Standards",
-        "B": "Yes, Sampson violated the Standards, while Lawson did not. C) Neither Sampson nor Lawson violated the Standards, because such outsourcing is permitted"
+        "B": "Yes, Sampson violated the Standards, while Lawson did not",
+        "C": "Neither Sampson nor Lawson violated the Standards, because such outsourcing is permitted"
       },
       "correctAnswer": "A",
       "explanation": "Standard I(C). Both Sampson and Lawson have violated Standard I(C) –\nProfessionalism – Misrepresentation. When Sampson prepared biographies with\nShadow Mountain Wealth Management Team included in them, she was obviously\ntrying to convey the image that TIM personnel are employees of the bank trust\ndepartment. This does not portray the correct business relationship between\nShadow Mountain and TIM. TIM is an outsourcer to Shadow Mountain and a\ncontract investment management provider, not an employee. Sampson is\nattempting to create a misleading view of the service level and investment expertise\nthat clients could rightly expect. While Lawson was not a party to preparing such\nmisleading business cards and marketing materials, he participated in the\nmisrepresentation by agreeing to go ahead with the client presentation.",
@@ -1451,7 +1500,8 @@
       "vignetteId": "Schweser_Mock_1_v73-76",
       "question": "Which of the following best describes the movement of the futures price on the 240day equity index futures contract as the contract moves toward the expiration date?",
       "options": {
-        "A": "The futures price will move toward zero as expiration nears. B) The futures price will move toward the (at inception) expected spot price as expiration nears",
+        "A": "The futures price will move toward zero as expiration nears",
+        "B": "The futures price will move toward the (at inception) expected spot price as expiration nears",
         "C": "The futures price will move toward the spot price as expiration nears"
       },
       "correctAnswer": "C",
@@ -1669,7 +1719,8 @@
       "vignetteId": "Schweser_Mock_1_v85-88",
       "question": "By taking the computer model when leaving her position at Analytica, Burns has most\n\nlikely violated CFA Institute Standards:",
       "options": {
-        "A": "because she should have obtained the permission from her colleague in writing. B) by placing the interests of her current employer above the interests of her former employer",
+        "A": "because she should have obtained the permission from her colleague in writing",
+        "B": "by placing the interests of her current employer above the interests of her former employer",
         "C": "unless she obtained permission from Analytica"
       },
       "correctAnswer": "C",
@@ -2494,7 +2545,8 @@
       "question": "Which of the following statements regarding Statement 1 in Exhibit 1 is least accurate?",
       "options": {
         "A": "The given monthly VaR indicates an annual VaR of $2.7 million",
-        "B": "The fund will lose more than $225,000 in a month, 5% of the time. C) The methodology described is not applicable to portfolios containing option positions"
+        "B": "The fund will lose more than $225,000 in a month, 5% of the time",
+        "C": "The methodology described is not applicable to portfolios containing option positions"
       },
       "correctAnswer": "A",
       "explanation": "A monthly VaR cannot be annualized by simply multiplying by 12. The monthly\nreturn and standard deviation would need to be annualized and VaR recalculated.\nAn assumption of a normal distribution is invalid if options were in the portfolio.",
@@ -3268,7 +3320,8 @@
       "question": "Jackman's Statement 1 is most likely:\n\nQuestion ID: 1531450",
       "options": {
         "A": "correct",
-        "B": "incorrect about long receiver swaption and short payer swaption. C) incorrect about the exercise rate being equal to the market swap fixed rate if the premiums of the two swaptions are equal"
+        "B": "incorrect about long receiver swaption and short payer swaption",
+        "C": "incorrect about the exercise rate being equal to the market swap fixed rate if the premiums of the two swaptions are equal"
       },
       "correctAnswer": "B",
       "explanation": "A payer swap can be replicated using a long payer swaption and short receiver\nswaption with the same exercise rates. Jackman's Statement 1 about how if the\npremiums of the two options are equal, the exercise rate must be equal to the\nmarket swap fixed rate is correct.",
@@ -3433,7 +3486,8 @@
       "vignetteId": "Schweser_Mock_2_v85-88",
       "question": "According to CFA Institute Standards of Professional Conduct, which of the following\nstatements is most accurate with regard to the investment report on BlueNote, Inc.?\nThe report:",
       "options": {
-        "A": "complies with the Standards. B) should not have included a price target as it makes an implicit guarantee of investment performance",
+        "A": "complies with the Standards",
+        "B": "should not have included a price target as it makes an implicit guarantee of investment performance",
         "C": "does not comply with the Standards due to improper risk analysis"
       },
       "correctAnswer": "C",
@@ -3457,7 +3511,8 @@
       "question": "In his letter to clients explaining the change in the valuation model, did Holly violate\nany CFA Institute Standards of Professional Conduct?",
       "options": {
         "A": "No",
-        "B": "Yes, because he did not treat all clients fairly in his dissemination of the letter. C) Yes, because he failed to include details of the current valuation model to contrast with the new model"
+        "B": "Yes, because he did not treat all clients fairly in his dissemination of the letter",
+        "C": "Yes, because he failed to include details of the current valuation model to contrast with the new model"
       },
       "correctAnswer": "A",
       "explanation": "Standard V(B) – Communication With Clients and Prospective Clients. Standard V(B)\nrequires members and candidates to promptly disclose any changes that materially\naffect investment processes. Holly has provided a detailed description of the new\nvaluation model that will be used to generate investment recommendations and has\ndisclosed the new limitations on the investment universe (i.e., no alcohol or tobacco\nstocks). Therefore, it does not appear that he has violated Standard V(B). Holly also\nhas not violated any other standards. It is acceptable for him to email those clients\nwith email addresses and send his letter by regular mail to those who do not.\nStandard III(B) – Fair Dealing does not require that all clients receive investment\nrecommendations or other communications at exactly the same time, only that the\nsystem treats clients fairly.",
@@ -3511,6 +3566,30 @@
       "explanation": "Surratt is correct. Market conditions affect currency spreads such that the bid-ask\nspread on foreign currency quotations increases as exchange rate volatility\n(uncertainty) increases. In this example, an economic crisis in the Asian markets\nwould create uncertainty, thereby impacting the $/¥ and $/NT$ exchange rates and\nincreasing the bid-ask spread.\nCastillo is incorrect. Bank and other currency dealer positions are not considered to\ndirectly impact the size of foreign currency spreads.\nIn this example, it is true that the dealer would likely reduce her yen ask (selling\nprice) if she wanted to unload an excess inventory of yen. However, the dealer\nwould also probably reduce her bid (buying price) so that she did not buy any\nadditional yen. The result would be that the spread would remain relatively\nunchanged.",
       "module": "Module 5.1",
       "los": "LOS 5.a",
+      "vignetteImages": [
+        "data/exhibits/Schweser_Mock_3_vig_q1-4_p0.png",
+        "data/exhibits/Schweser_Mock_3_vig_q1-4_p1.png"
+      ],
+      "context": "Jill Surratt, CFA, and Elizabeth Castillo, CFA, are analysts for Summit Consulting.\nSummit provides investment advice to hedge funds and actively managed investment\nfunds throughout the United States and Canada.\nSurratt and Castillo have a client, Tom Carr, who is interested in increasing his returns\nfrom foreign currency positions. Carr currently has a position in Japanese yen (¥) that\nhe wishes to convert to Taiwanese dollars (NT$) because he thinks the Taiwanese\ncurrency will appreciate in the near term. He does not have a quote for yen in terms\nof the NT$ but has received quotes for both currencies in terms of the U.S. dollar. The\nquotes are $0.008852–56 for the yen and $0.02874–6 for the Taiwanese dollar. He\nwould like to purchase NT$10 million.\nIn discussing these quotes, Surratt notes that the bid-ask spread is affected by many\nfactors. She states that if an economic crisis were expected in the Asian markets, then\nthe bid-ask spread of the currency quotes should widen. Castillo states that if a dealer\nwished to unload an excess inventory of yen, the typical response would be to lower\nher ask for the yen, thereby narrowing the bid-ask spread.\nIn regards to changes in currency values, Surratt states that under the MundellFleming model, if the U.S. Federal Reserve restricts the growth of the money supply\nand foreign interest rates remain constant, then the interest rate differential (U.S.\ninterest rate minus counter currency interest rate) should increase, thereby increasing\nthe value of the dollar.\nIn addition to using monetary policy, Summit Consulting uses anticipated changes in\nfiscal policy to forecast exchange rates and the balance of payments for Canada.\nCastillo states that, under the Mundell-Fleming model, if the Canadian government\nwere to unexpectedly reduce the budget deficit, then this should have a positive\nimpact on the value of the Canadian dollar in the short run because foreigners would\nhave more confidence in the Canadian economy."
+    },
+    {
+      "id": "Schweser_Mock_3_q3",
+      "questionNumber": 3,
+      "questionId": "1541886",
+      "source": "Schweser Mock 3",
+      "topic": "Economics",
+      "vignette": "Jill Surratt, CFA, and Elizabeth Castillo, CFA, are analysts for Summit Consulting.\nSummit provides investment advice to hedge funds and actively managed investment\nfunds throughout the United States and Canada.\nSurratt and Castillo have a client, Tom Carr, who is interested in increasing his returns\nfrom foreign currency positions. Carr currently has a position in Japanese yen (¥) that\nhe wishes to convert to Taiwanese dollars (NT$) because he thinks the Taiwanese\ncurrency will appreciate in the near term. He does not have a quote for yen in terms\nof the NT$ but has received quotes for both currencies in terms of the U.S. dollar. The\nquotes are $0.008852–56 for the yen and $0.02874–6 for the Taiwanese dollar. He\nwould like to purchase NT$10 million.\nIn discussing these quotes, Surratt notes that the bid-ask spread is affected by many\nfactors. She states that if an economic crisis were expected in the Asian markets, then\nthe bid-ask spread of the currency quotes should widen. Castillo states that if a dealer\nwished to unload an excess inventory of yen, the typical response would be to lower\nher ask for the yen, thereby narrowing the bid-ask spread.\nIn regards to changes in currency values, Surratt states that under the MundellFleming model, if the U.S. Federal Reserve restricts the growth of the money supply\nand foreign interest rates remain constant, then the interest rate differential (U.S.\ninterest rate minus counter currency interest rate) should increase, thereby increasing\nthe value of the dollar.\nIn addition to using monetary policy, Summit Consulting uses anticipated changes in\nfiscal policy to forecast exchange rates and the balance of payments for Canada.\nCastillo states that, under the Mundell-Fleming model, if the Canadian government\nwere to unexpectedly reduce the budget deficit, then this should have a positive\nimpact on the value of the Canadian dollar in the short run because foreigners would\nhave more confidence in the Canadian economy.",
+      "vignetteId": "Schweser_Mock_3_v1-4",
+      "question": "Evaluate Surratt's statements concerning the impact of monetary policy on currency\nvalues. Surratt is:",
+      "options": {
+        "A": "correct",
+        "B": "incorrect, because restrictive monetary policy in the United States would lead to a lower value of the dollar",
+        "C": "incorrect, because restrictive U.S. monetary policy would be matched by foreign governments"
+      },
+      "correctAnswer": "A",
+      "explanation": "Surratt is correct. Under the Mundell-Fleming model, restrictive monetary policy\nreduces the growth rate of the money supply and will lead to appreciation of a\ncountry's currency. Restrictive monetary policy will increase the interest rate and,\nconsequently, the demand for domestic physical and financial assets. This increase\nin financial inflows (increase in the financial account) increases the demand for the\ndomestic currency for investment purposes leading to its appreciation. Choice C is\nincorrect because we are given in the vignette that the foreign interest rates remain\nconstant.",
+      "module": "Module 5.3",
+      "los": "LOS 5.k",
       "vignetteImages": [
         "data/exhibits/Schweser_Mock_3_vig_q1-4_p0.png",
         "data/exhibits/Schweser_Mock_3_vig_q1-4_p1.png"
@@ -3672,7 +3751,8 @@
       "question": "Regarding the three operating divisions of Konker, Yoakam should be most concerned\nthat:",
       "options": {
         "A": "Konker is growing the Industrial division over time",
-        "B": "the operating ROA of the Capital division has fallen over the last year. C) the ratio of the Capex percent change to the asset percentage is significantly less than one for the Defense division"
+        "B": "the operating ROA of the Capital division has fallen over the last year",
+        "C": "the ratio of the Capex percent change to the asset percentage is significantly less than one for the Defense division"
       },
       "correctAnswer": "A",
       "explanation": "The fact that Konker is growing the Industrial division most rapidly (highest capex\npercent to asset percent ratio) is a likely cause for concern and further investigation,\nsince this division has the lowest operating return on assets. The decrease in the\noperating ROA for the Capital division is not particularly troublesome as it mirrors\nthe pattern for the other divisions and likely just reflects year-to-year variation in\nprofitability. The fact that the percent of capex for the Defense division is less than\nits percent of total assets is not a primary cause for concern since that division has a\nlower operating ROA, and growth in capital assets likely follows contract awards in\nthe defense industry, rather than drives business. Also, the apparent\noverinvestment in the Industrial division will decrease the capex percent for other\ndivisions, other things equal.",
@@ -3692,8 +3772,9 @@
       "topic": "Financial Statement Analysis",
       "vignette": "Dipesh Ganatra, CFA, is an equity analyst at Mahavir Securities Ltd. Ganatra is\nreviewing the financial statements of Parichay Industries, a diverse conglomerate\nheadquartered in India. Ganatra is particularly concerned about the quality of\nParichay's earnings.\nGanatra decides to analyze Parichay's accrual ratios using the balance sheet\napproach. The table below contains the last three years of accrual ratios for Parichay,\nas well as the industry average.\nExhibit 1: Accrual ratios for Parichay\nBalance Sheet Accrual Ratios 20X8 20X7 20X6\nParichay\n4.5% 15.0% 7.0%\nIndustry average\n4.8% 4.4%\n5.2%\nGanatra has learned that Parichay has a small subsidiary in Ukraine. The subsidiary\nfollows IFRS and uses FIFO inventory accounting. The Ukrainian subsidiary was\nacquired 10 years ago and has been fully integrated into Parichay's operations.\nParichay obtains funding for the subsidiary whenever the company finds profitable\ninvestments within Ukraine or neighboring countries. According to forecasts from\neconomists, the Ukrainian Hryvnia is expected to depreciate relative to the Indian\nRupee over the next few years. Ukrainian local currency prices are forecast to remain\nstable, however.\nOne of the managers at Mahavir has asked Ganatra to analyze another Parichay\nsubsidiary, this one located in Pakistan. The manager explains that real interest rates\nin Pakistan over the past three years have been 2.00%, 2.50%, and 3.00%, respectively,\nwhile nominal interest rates have been 34.64%, 29.15%, and 25.66%, respectively.\nGanatra requests more time to analyze the Pakistani subsidiary.\nGanatra meets an old colleague, Riteish Shah, for lunch. Shah specializes in the\ninsurance industry and makes the following statements:\nStatement 1:\nP&C insurers' liability duration is generally shorter than that of life\ninsurance companies.\nStatement 2:\nAnalysis of a life insurer's profitability includes analysis of its loss\nreserves.",
       "vignetteId": "Schweser_Mock_3_v13-16",
-      "question": "Which of the following statements regarding the consolidation of Parichay's Ukrainian\nsubsidiary for the next year is least likely correct? Compared to the temporal method,\nthe Ukrainian subsidiary's translated:\nA)\n\nnet income before translation gains or losses would be higher using the current rate\nmethod.",
+      "question": "Which of the following statements regarding the consolidation of Parichay's Ukrainian\nsubsidiary for the next year is least likely correct? Compared to the temporal method,\nthe Ukrainian subsidiary's translated:",
       "options": {
+        "A": "net income before translation gains or losses would be higher using the current rate method",
         "B": "debt-to-equity ratio would be higher using the current rate method",
         "C": "gross profit margin would be lower using the current rate method"
       },
@@ -3811,7 +3892,8 @@
       "question": "Which of the following statements about ESG analysis is least accurate?",
       "options": {
         "A": "The materiality of ESG risk factors is not important",
-        "B": "Fixed-income analysts usually will focus on ESG factors’ downside impact. C) Issues that are likely to have a financial impact on the firm only over the long term may be of little concern for short-term investors"
+        "B": "Fixed-income analysts usually will focus on ESG factors’ downside impact",
+        "C": "Issues that are likely to have a financial impact on the firm only over the long term may be of little concern for short-term investors"
       },
       "correctAnswer": "A",
       "explanation": "ESG risk factors are evaluated for materiality and time horizon. Issues that are likely\nto have a financial impact over the long term may be of little concern for short-term\ninvestors. Fixed-income analysts usually focus on downside risk while equity\nanalysts evaluate both the downside and upside impacts of ESG factors and adjust\nthe discount rate appropriately.",
@@ -5055,7 +5137,8 @@
       "question": "Regarding her reference to Xeta fund's performance in her employment applications,\nDuff is most likely to have violated the CFA Institute Standard of Professional Conduct\nrelated to:",
       "options": {
         "A": "Standard III(D) − Performance Presentation",
-        "B": "Standard IV(A) − Duties to Employer: Loyalty. C) Standard III(D) − Performance Presentation as well as Standard IV(A) − Duties to Employer: Loyalty"
+        "B": "Standard IV(A) − Duties to Employer: Loyalty",
+        "C": "Standard III(D) − Performance Presentation as well as Standard IV(A) − Duties to Employer: Loyalty"
       },
       "correctAnswer": "A",
       "explanation": "Duff obtained permission from Blue Lotus to use the past performance and,\ntherefore, is not violating Standard IV(A) − Duties to Employer: Loyalty. However, by\nnot crediting the entire team in the management of Xeta fund, Duff violated\nStandard III(D) − Performance Presentation.",
@@ -5625,6 +5708,29 @@
       "context": "Randy Carson is the chief information officer of Zion Investments, LLC, an\nindependent investment company. Carson has asked Jane Walsinzki, a senior\nderivatives analyst for Zion, for information on several outstanding contract positions.\nWalsinzki prepares a report outlining relevant information about the various\nderivatives.\nWalsinzki's report first identifies that the firm has a payer position in a two-year,\nsemiannual, 3.25% fixed interest rate swap with a notional of $15 million. The second\nsettlement just occurred. Current 180-day and 360-day MRR are 3.25% and 3.50%,\nrespectively.\nThe report also identifies a two-year, semi-annual USD-for-EUR currency swap with a\nnotional of €1 million. When the swap was initiated, the USD and EUR fixed rates were\n3% and 2%, respectively. The exchange rate has changed from €/$ 0.9091 at inception\nto €/$ 0.8929 currently.\nFurthermore, the report outlines that the firm holds a call option on a Eurodollar\nfutures contract. This position was established to hedge another position of the firm,\nbut Walsinzki could not identify the position that was being hedged.\nFinally, Carson asks Walsinzki about the mechanics of forward pricing."
     },
     {
+      "id": "Schweser_Mock_4_q28",
+      "questionNumber": 28,
+      "questionId": "1560307",
+      "source": "Schweser Mock 4",
+      "topic": "Derivatives",
+      "vignette": "Randy Carson is the chief information officer of Zion Investments, LLC, an\nindependent investment company. Carson has asked Jane Walsinzki, a senior\nderivatives analyst for Zion, for information on several outstanding contract positions.\nWalsinzki prepares a report outlining relevant information about the various\nderivatives.\nWalsinzki's report first identifies that the firm has a payer position in a two-year,\nsemiannual, 3.25% fixed interest rate swap with a notional of $15 million. The second\nsettlement just occurred. Current 180-day and 360-day MRR are 3.25% and 3.50%,\nrespectively.\nThe report also identifies a two-year, semi-annual USD-for-EUR currency swap with a\nnotional of €1 million. When the swap was initiated, the USD and EUR fixed rates were\n3% and 2%, respectively. The exchange rate has changed from €/$ 0.9091 at inception\nto €/$ 0.8929 currently.\nFurthermore, the report outlines that the firm holds a call option on a Eurodollar\nfutures contract. This position was established to hedge another position of the firm,\nbut Walsinzki could not identify the position that was being hedged.\nFinally, Carson asks Walsinzki about the mechanics of forward pricing.",
+      "vignetteId": "Schweser_Mock_4_v25-28",
+      "question": "Regarding Carson's question about mechanics of forward pricing, Walsinzki would\n\nmost accurately state that forward prices are set such that:",
+      "options": {
+        "A": "the market value of the contract at inception is 0",
+        "B": "the forward price is higher than the spot price by the expected return on the underlying",
+        "C": "the forward price is lower than the spot price by the dividend yield on the underlying"
+      },
+      "correctAnswer": "A",
+      "explanation": "Forward prices are set so the market value of the contract at inception is zero. Using\nthe cost of carry model, forward price equals spot price plus net cost of carry. For an\nequity forward contract, net cost of carry equals risk-free rate minus dividend yield.",
+      "module": "Module 30.1",
+      "los": "LOS 30.b",
+      "vignetteImages": [
+        "data/exhibits/Schweser_Mock_4_vig_q25-28_p0.png"
+      ],
+      "context": "Randy Carson is the chief information officer of Zion Investments, LLC, an\nindependent investment company. Carson has asked Jane Walsinzki, a senior\nderivatives analyst for Zion, for information on several outstanding contract positions.\nWalsinzki prepares a report outlining relevant information about the various\nderivatives.\nWalsinzki's report first identifies that the firm has a payer position in a two-year,\nsemiannual, 3.25% fixed interest rate swap with a notional of $15 million. The second\nsettlement just occurred. Current 180-day and 360-day MRR are 3.25% and 3.50%,\nrespectively.\nThe report also identifies a two-year, semi-annual USD-for-EUR currency swap with a\nnotional of €1 million. When the swap was initiated, the USD and EUR fixed rates were\n3% and 2%, respectively. The exchange rate has changed from €/$ 0.9091 at inception\nto €/$ 0.8929 currently.\nFurthermore, the report outlines that the firm holds a call option on a Eurodollar\nfutures contract. This position was established to hedge another position of the firm,\nbut Walsinzki could not identify the position that was being hedged.\nFinally, Carson asks Walsinzki about the mechanics of forward pricing."
+    },
+    {
       "id": "Schweser_Mock_4_q29",
       "questionNumber": 29,
       "questionId": "1626130",
@@ -6068,7 +6174,8 @@
       "question": "The classical growth theory predicts that Tiberia's long-run future GDP per capita is\n\nmost likely to:",
       "options": {
         "A": "decline due to diminishing marginal productivity of capital",
-        "B": "settle at subsistence level due to adjustments in the population. C) remain unchanged from the current levels unless the government increases the budget deficit"
+        "B": "settle at subsistence level due to adjustments in the population",
+        "C": "remain unchanged from the current levels unless the government increases the budget deficit"
       },
       "correctAnswer": "B",
       "explanation": "Under the classical growth theory, the Tiberian economy will settle at a subsistence\nlevel. The high growth in the economy will result in a higher population. The higher\npopulation will eventually result in decreased returns to labor and decreased labor\nproductivity. No permanent increase in labor productivity will result and per capita\nGDP will settle at a subsistence level.",
@@ -6697,6 +6804,30 @@
       "context": "Seva Wolff has just inherited $1.2 million. She meets with Roberta Gomez, her\nfinancial advisor, about changes to her investment policy statement—and hence, her\nportfolio—due to this major life event.\nGomez recommends that Wolff consider exchange-traded funds (ETFs) for her\nportfolio and suggests that she can compile a list of ETFs suitable for Wolff.\nWolff is uncertain about this class of investment product and asks several questions.\nIn her response, Gomez makes the following statements:\nStatement 1:\nETFs represent shares in a portfolio. The fund manager must\ndisclose the holdings on an annual basis.\nStatement 2:\nETFs trade on both primary and secondary markets.\nStatement 3:\nMarket makers known as authorized participants keep ETF prices\nin line with a fund's NAV per share through a process known as\ncreation/redemption. The costs of creation/redemption are borne\nby all of the fund's shareholders.\nStatement 4:\nRelative to traditional mutual funds, ETFs tend to distribute less in\ncapital gains to their shareholders.\nGomez then mentions that Wolff should consider other asset classes that form part of\na well-diversified portfolio. She says the expected return on an asset is affected by the\ninvestor's intertemporal rate of substitution. She makes the following statements:\nStatement 5:\nTypically, the covariance between a risk-averse investor's\nintertemporal rate of substitution and the current asset price is\nnegative.\nStatement 6:\nAn investor's breakeven inflation rate is the expected future\ninflation minus the risk premium for future inflation."
     },
     {
+      "id": "Schweser_Mock_4_q81",
+      "questionNumber": 81,
+      "questionId": "1626153",
+      "source": "Schweser Mock 4",
+      "topic": "Ethics",
+      "vignette": "Connor Burton, CFA, is the managing partner for United Partners, a small investment\nadvisory firm that employs three investment professionals and currently has\napproximately $250 million of assets under management. The client base of United\nPartners is varied, and accounts range in size from small retirement accounts to a $30\nmillion private school endowment. In addition to Burton's administrative\nresponsibilities as the managing partner at United, he also serves as an investment\nadvisor to several clients. Because United Partners is a small firm, the company does\nnot employ any research analysts but instead obtains its investment research\nproducts and services from two national brokerage firms, which in turn execute all\nclient trades for United Partners. The arrangement with the two brokers has enabled\nUnited to assure its clients that the firm will always seek the best execution for them\nby having both brokers competitively bid for United's business.\nA prospective client, Harold Crossley, has approached Burton about shifting some of\nhis personal assets under management from MoneyCorp to United Partners.\nAs a condition of moving his account to United Partners, Crossley insists that all of his\ntrades be executed through his brother-in-law, a broker for Security Bank. Security\nBank is a large, New York-based broker/dealer but is not one of the two brokerage\nfirms with which United currently does business. Burton contacts Crossley's brotherin-law and determines that Security Bank's trade execution is competitive, but\nCrossley's account alone would not generate enough volume to warrant any soft\ndollar arrangement for research materials. However, Crossley's brother-in-law does\noffer for Security Bank to pay a referral fee to Burton for directing any of United's\nclients to Security Bank's retail banking division. To bring Crossley on as a client,\nBurton agrees to the arrangement. Going forward, Burton will use Security Bank to\nexecute all of Crossley's trades.\nUnited Partners currently has no formal policy on proxy voting. Burton wants to\ndevelop a policy that conforms to the Code and Standards.\nSeveral months later, Burton is invited to a road show for an initial public offering\n(IPO) for SolutionWare, a software company. Security Bank is serving as lead\nunderwriter on SolutionWare's IPO. Burton attends the meeting, which is led by two\ninvestment bankers and one software industry research analyst from Security Bank\nwho covers SolutionWare. Burton notes that the bankers from Security Bank have\nincluded detailed financial statements for SolutionWare in the offering prospectus\nand also disclosed that Security Bank provides a warehouse line of credit to\nSolutionWare. After the meeting, Burton calls Crossley to recommend the purchase of\nSolutionWare equity. Crossley heeds Burton's advice and tells him to purchase 5,000\nshares.",
+      "vignetteId": "Schweser_Mock_4_v81-84",
+      "question": "According to the CFA Institute Standards of Professional Conduct, the trading\narrangement between Burton and Security Bank is most likely:",
+      "options": {
+        "A": "a violation because the practice of directed brokerage violates the member’s duty of loyalty to the client",
+        "B": "a violation because although Security Bank’s execution is competitive, Burton will not be able to always obtain the best execution for his client",
+        "C": "not a violation because the brokerage is the property of the client"
+      },
+      "correctAnswer": "C",
+      "explanation": "According to CFA Institute Standards of Professional Conduct, client brokerage is the\nproperty of the client; client-directed brokerage does not violate the duty of loyalty\nto clients. Members should disclose to the clients if such arrangements does not\nresult in best execution for the clients (but this stipulation is not applicable in this\ncase).",
+      "module": "Module 42.4",
+      "los": "LOS 42.a",
+      "vignetteImages": [
+        "data/exhibits/Schweser_Mock_4_vig_q81-84_p0.png",
+        "data/exhibits/Schweser_Mock_4_vig_q81-84_p1.png"
+      ],
+      "context": "Connor Burton, CFA, is the managing partner for United Partners, a small investment\nadvisory firm that employs three investment professionals and currently has\napproximately $250 million of assets under management. The client base of United\nPartners is varied, and accounts range in size from small retirement accounts to a $30\nmillion private school endowment. In addition to Burton's administrative\nresponsibilities as the managing partner at United, he also serves as an investment\nadvisor to several clients. Because United Partners is a small firm, the company does\nnot employ any research analysts but instead obtains its investment research\nproducts and services from two national brokerage firms, which in turn execute all\nclient trades for United Partners. The arrangement with the two brokers has enabled\nUnited to assure its clients that the firm will always seek the best execution for them\nby having both brokers competitively bid for United's business.\nA prospective client, Harold Crossley, has approached Burton about shifting some of\nhis personal assets under management from MoneyCorp to United Partners.\nAs a condition of moving his account to United Partners, Crossley insists that all of his\ntrades be executed through his brother-in-law, a broker for Security Bank. Security\nBank is a large, New York-based broker/dealer but is not one of the two brokerage\nfirms with which United currently does business. Burton contacts Crossley's brotherin-law and determines that Security Bank's trade execution is competitive, but\nCrossley's account alone would not generate enough volume to warrant any soft\ndollar arrangement for research materials. However, Crossley's brother-in-law does\noffer for Security Bank to pay a referral fee to Burton for directing any of United's\nclients to Security Bank's retail banking division. To bring Crossley on as a client,\nBurton agrees to the arrangement. Going forward, Burton will use Security Bank to\nexecute all of Crossley's trades.\nUnited Partners currently has no formal policy on proxy voting. Burton wants to\ndevelop a policy that conforms to the Code and Standards.\nSeveral months later, Burton is invited to a road show for an initial public offering\n(IPO) for SolutionWare, a software company. Security Bank is serving as lead\nunderwriter on SolutionWare's IPO. Burton attends the meeting, which is led by two\ninvestment bankers and one software industry research analyst from Security Bank\nwho covers SolutionWare. Burton notes that the bankers from Security Bank have\nincluded detailed financial statements for SolutionWare in the offering prospectus\nand also disclosed that Security Bank provides a warehouse line of credit to\nSolutionWare. After the meeting, Burton calls Crossley to recommend the purchase of\nSolutionWare equity. Crossley heeds Burton's advice and tells him to purchase 5,000\nshares."
+    },
+    {
       "id": "Schweser_Mock_4_q83",
       "questionNumber": 83,
       "questionId": "1626155",
@@ -6707,7 +6838,8 @@
       "question": "When formulating the proxy voting policy, which of the following is least appropriate\nfor Burton to include?",
       "options": {
         "A": "Determine the economic impact of non-routine proxy votes",
-        "B": "Treat all proposals equally as far as proxy voting goes. C) If the client preference differs from the proxy voter's preference, defer to client wishes"
+        "B": "Treat all proposals equally as far as proxy voting goes",
+        "C": "If the client preference differs from the proxy voter's preference, defer to client wishes"
       },
       "correctAnswer": "B",
       "explanation": "Standard III(A) Loyalty, Prudence, and Care. Unusual proposals, such as hostile\ntakeovers and executive changes, may require more review than routine matters\nsuch as renewing stock-repurchase agreements. Money managers should provide a\nmeans to review complex proxies. Establishing evaluation criteria and disclosing the\nfirm's proxy voting policies and procedures to clients are basic elements of a proxyvoting policy. Client wishes regarding proxy voting should always be followed.",
@@ -6729,7 +6861,8 @@
       "vignetteId": "Schweser_Mock_4_v85-88",
       "question": "In applying the MDT model exclusively to the accounts of Matematicasa's insurance\ncompany clients, and not offering it to Matematicasa's family office customers, does\nEsposito violate the CFA Institute Code and Standards?",
       "options": {
-        "A": "No. B) Yes, because Esposito is obligated to disclose the existence of the model when speaking to high-net worth families",
+        "A": "No",
+        "B": "Yes, because Esposito is obligated to disclose the existence of the model when speaking to high-net worth families",
         "C": "Yes, because the model may be suitable for some non-insurance clients"
       },
       "correctAnswer": "A",
@@ -6753,7 +6886,8 @@
       "question": "By not fixing the error in the MDT model promptly, did Esposito violate the CFA\nInstitute Code and Standards?",
       "options": {
         "A": "Yes",
-        "B": "No, because the Code and Standards does not specify a timeframe for fixing errors. C) No, because it was Rossi’s responsibility as supervisor to ensure compliance with the Code and Standards"
+        "B": "No, because the Code and Standards does not specify a timeframe for fixing errors",
+        "C": "No, because it was Rossi’s responsibility as supervisor to ensure compliance with the Code and Standards"
       },
       "correctAnswer": "A",
       "explanation": "Members and candidates have a duty of loyalty to their clients and must act with\nreasonable care and exercise prudent judgement. By not promptly fixing the error in\nthe model, Esposito is not acting for the benefit of clients, nor is he placing client\ninterests before his employer's and his own interests. Esposito is thus violating\nStandard III(A): Duties to Clients–Loyalty, Prudence, and Care. While the Code and\nStandards does not specify a timeframe for fixing errors, the error clearly should\nhave been fixed promptly. While Rossi also has a responsibility as supervisor to\nensure that Esposito complies with the Code and Standards, this does not absolve\nEsposito of his responsibility.",
@@ -6783,6 +6917,30 @@
       "explanation": "Before contacting Matematicasa clients about the error or immediately dissociating\nhimself from Matematicasa, Esposito should bring the model error to the attention\nof his senior management. According to Standard I(A): Professionalism–Knowledge\nof the Law, \"If a member or candidate has reasonable grounds to believe that\nimminent or ongoing client or employer activities are illegal or unethical… The first\nstep should be to attempt to stop the behavior by bringing it to the attention of the\nemployer through a supervisor or the firm's compliance department.\" The model\nneeds to be fixed immediately in order to minimize the negative impact on\nMatematicasa clients, rather than being left until the next software upgrade cycle.\nBecause Rossi is resistant to promptly correcting the error, Esposito's next step\nshould be to make his senior management (including Rossi's manager) aware of the\nsituation. Standard I(A) does not recommend contacting a firm's clients.",
       "module": "Module 43.1",
       "los": "LOS 43.b",
+      "vignetteImages": [
+        "data/exhibits/Schweser_Mock_4_vig_q85-88_p0.png",
+        "data/exhibits/Schweser_Mock_4_vig_q85-88_p1.png"
+      ],
+      "context": "Matematicasa is a medium-sized asset management firm that uses various machine\nlearning techniques to make investment decisions. Last year, Matematicasa brought\nAntonio Esposito, CFA, CPA, on-board. Espositio is admired in the investment\nmanagement industry for his use of machine learning techniques. At Matematicasa,\nEsposito maintains an existing machine learning model called MDT that selects\ninvestments based on a large amount of textual information from various online\nsources, and recommends an optimal portfolio based on a client's selected\nbenchmark. Esposito uses the model exclusively for Matematicasa's insurance\ncompany clients, but does not offer it to Matematicasa's family office customers.\nOver the past several months, one of Matematicasa's insurance company clients has\nbegun raising concerns about underperformance of their portfolio versus its\nbenchmark. In response, Sofia Rossi, CFA (Esposito's supervisor, and Matematicasa's\nhead of research) requests that Esposito review the model. Esposito finds that this\\e\nmachine learning model is incorrectly classifying text, resulting in inappropriate\ninvestment recommendations.\nAfter discovering the cause of the error, Esposito meets with Rossi to present his\nfindings. Esposito expresses his opinion that Matematicasa should correct the\nproblem immediately. However Rossi disagrees: she requests that Esposito update\nthe model at the end of the quarter during the normal upgrade cycle. Furthermore,\nRossi requests that Esposito keep the situation quiet for the time being, and assures\nEsposito that appropriate disclosures to their senior management and to their clients\nwill be made at the end of the quarter, once they have had the opportunity to fix the\nmodel.\nAfter a few more weeks of customer complaints without action from Rossi (who still\nrefuses to disclose the error to customers), Esposito becomes disgruntled with\nMatematicasa. Esposito agrees to a job interview with Algoritmo A.I. Sgr (AAIS), which\nis Matematicasa's closest competitor. During his interview with AAIS's asset\nmanagement team, Esposito demonstrates a machine learning model called\nAzionarioStella that Esposito has created in his spare time at home over the past\nseveral months of evenings and weekends. Esposito first used historical data to tune\nand back-test the model, and then put the model to work managing his personal\nportfolio and then the portfolios of his siblings. The team at Algoritmo is excited by\nEsposito's ideas and his model. The Algoritmo team offers Esposito a position on the\nspot, and also expresses interest in licensing the AzionarioStella model from him.\nEsposito accepts and resigns from Matematicasa that same day."
+    },
+    {
+      "id": "Schweser_Mock_4_q88",
+      "questionNumber": 88,
+      "questionId": "1626161",
+      "source": "Schweser Mock 4",
+      "topic": "Ethics",
+      "vignette": "Matematicasa is a medium-sized asset management firm that uses various machine\nlearning techniques to make investment decisions. Last year, Matematicasa brought\nAntonio Esposito, CFA, CPA, on-board. Espositio is admired in the investment\nmanagement industry for his use of machine learning techniques. At Matematicasa,\nEsposito maintains an existing machine learning model called MDT that selects\ninvestments based on a large amount of textual information from various online\nsources, and recommends an optimal portfolio based on a client's selected\nbenchmark. Esposito uses the model exclusively for Matematicasa's insurance\ncompany clients, but does not offer it to Matematicasa's family office customers.\nOver the past several months, one of Matematicasa's insurance company clients has\nbegun raising concerns about underperformance of their portfolio versus its\nbenchmark. In response, Sofia Rossi, CFA (Esposito's supervisor, and Matematicasa's\nhead of research) requests that Esposito review the model. Esposito finds that this\\e\nmachine learning model is incorrectly classifying text, resulting in inappropriate\ninvestment recommendations.\nAfter discovering the cause of the error, Esposito meets with Rossi to present his\nfindings. Esposito expresses his opinion that Matematicasa should correct the\nproblem immediately. However Rossi disagrees: she requests that Esposito update\nthe model at the end of the quarter during the normal upgrade cycle. Furthermore,\nRossi requests that Esposito keep the situation quiet for the time being, and assures\nEsposito that appropriate disclosures to their senior management and to their clients\nwill be made at the end of the quarter, once they have had the opportunity to fix the\nmodel.\nAfter a few more weeks of customer complaints without action from Rossi (who still\nrefuses to disclose the error to customers), Esposito becomes disgruntled with\nMatematicasa. Esposito agrees to a job interview with Algoritmo A.I. Sgr (AAIS), which\nis Matematicasa's closest competitor. During his interview with AAIS's asset\nmanagement team, Esposito demonstrates a machine learning model called\nAzionarioStella that Esposito has created in his spare time at home over the past\nseveral months of evenings and weekends. Esposito first used historical data to tune\nand back-test the model, and then put the model to work managing his personal\nportfolio and then the portfolios of his siblings. The team at Algoritmo is excited by\nEsposito's ideas and his model. The Algoritmo team offers Esposito a position on the\nspot, and also expresses interest in licensing the AzionarioStella model from him.\nEsposito accepts and resigns from Matematicasa that same day.",
+      "vignetteId": "Schweser_Mock_4_v85-88",
+      "question": "With respect to his duties to his employer Matematicasa, did Esposito violate the CFA\nInstitute Code and Standards in developing his AzionarioStella model?",
+      "options": {
+        "A": "No",
+        "B": "Yes, because Esposito has an obligation to place his employer’s interests before his own interests",
+        "C": "Yes, because Esposito is depriving his employer of the advantage of his skills and abilities"
+      },
+      "correctAnswer": "A",
+      "explanation": "Esposito is not in violation of the CFA Institute Code and Standards, Standard IV(A):\nDuties to Employers–Loyalty. In this case, Esposito developed the AzionarioStella\nmodel in his spare time (on nights and weekends). Matematicasa did not pay\nEsposito to develop the model. Esposito was thus not depriving his employer of the\nadvantage of his skills and abilities.",
+      "module": "Module 43.1",
+      "los": "LOS 43.a",
       "vignetteImages": [
         "data/exhibits/Schweser_Mock_4_vig_q85-88_p0.png",
         "data/exhibits/Schweser_Mock_4_vig_q85-88_p1.png"
@@ -7384,7 +7542,8 @@
       "question": "Musa's Statement 2 is most likely:",
       "options": {
         "A": "correct",
-        "B": "incorrect as the statement only considers credit risk. C) incorrect as the statement should refer to expected loss and not to credit valuation adjustment"
+        "B": "incorrect as the statement only considers credit risk",
+        "C": "incorrect as the statement should refer to expected loss and not to credit valuation adjustment"
       },
       "correctAnswer": "A",
       "explanation": "Statement 2 is correct. Credit valuation adjustment is the compensation an investor\nreceives for bearing the credit risk and is the maximum amount the investor would\nbe willing to pay to insure against credit risk losses.",
@@ -7673,7 +7832,8 @@
       "question": "By not telling her employer about the bartending position, Gunderson has most likely\nviolated:",
       "options": {
         "A": "no Standards",
-        "B": "Standard IV(B) Additional Compensation Arrangements. C) Standard IV(A) Loyalty (to employer) and Standard IV(B) Additional Compensation Arrangements"
+        "B": "Standard IV(B) Additional Compensation Arrangements",
+        "C": "Standard IV(A) Loyalty (to employer) and Standard IV(B) Additional Compensation Arrangements"
       },
       "correctAnswer": "A",
       "explanation": "Standard IV(A) Loyalty (to employer) requires that members and candidates act for\nthe benefit of their employer and not deprive the employer of their skills and\nabilities. In addition, members and candidates must not cause harm to their\nemployers. It's safe to say that a bar does not compete with a stock analysis/asset\nmanagement company, and a six-hours-a-week part-time job should not interfere\nwith her ability to perform analysis duties. Standard IV(B) Additional Compensation\nArrangements relates to additional compensation related to an employee's services\nto the employer. The part-time work is not related to her analysis job and, as such,\ndoes not violate the Standard. There is nothing inherently unethical about working\nas a bartender, and working as a barkeeper does not compromise Gunderson's\nprofessional reputation, integrity, or competence. Thus, Standard I(D) Misconduct\nhas not been violated.",
@@ -8251,7 +8411,8 @@
       "vignetteId": "Schweser_Mock_5_v65-68",
       "question": "Reynolds's Statement 1 is most likely:",
       "options": {
-        "A": "correct. B) incorrect as structural models can incorporate the risk of off-balance sheet debt as long as the assets of the company trade",
+        "A": "correct",
+        "B": "incorrect as structural models can incorporate the risk of off-balance sheet debt as long as the assets of the company trade",
         "C": "incorrect because off-balance sheet debt is a zero-coupon liability"
       },
       "correctAnswer": "A",
@@ -9366,12 +9527,37 @@
       "question": "Singh's statement 1 is best described as:",
       "options": {
         "A": "correct",
-        "B": "incorrect about investment constraints reducing her information ratio. C) incorrect about investment constraints reducing the correlation between actual active weights and forecasted active returns"
+        "B": "incorrect about investment constraints reducing her information ratio",
+        "C": "incorrect about investment constraints reducing the correlation between actual active weights and forecasted active returns"
       },
       "correctAnswer": "A",
       "explanation": "Singh's statement 1 is correct.\nIn the presence of investment constraints, IR = (T C) (I C) √BR where TC is the\ntransfer coefficient. The transfer coefficient is the correlation between actual active\nweights and forecasted active returns. The greater the investment constraints, the\nlower the transfer coefficient, the lower the correlation between active weights and\nforecasted active return, and the lower the information ratio will be.",
       "module": "Module 40.3",
       "los": "LOS 40.c",
+      "vignetteImages": [
+        "data/exhibits/Schweser_Mock_6_vig_q33-36_p0.png",
+        "data/exhibits/Schweser_Mock_6_vig_q33-36_p1.png"
+      ],
+      "context": "Mary Phillips, CFA, was recently hired to the team that manages the Dominick Trust\n(DT), a USD 220 million family-owned portfolio. The DT portfolio consists of several\nfunds with diversified holdings. Recently, DT has been considering the possibility of\ntaking further advantage of its fund managers' abilities by additionally managing\noutside money.\nDuring her first week on the job, Phillips sets up appointments with several fund\nmanagers to get an overview of the different approaches to portfolio management\nthat are employed at DT. First, she meets with Andrew Kapp, fund manager for an\nactively managed small-cap equity fund. Exhibit 1: Small-Cap Equity Fund—\nSelected Information provides information about the fund and its benchmark.\nExhibit 1: Small-Cap Equity Fund—Selected Information\nExpected active return\nStandard deviation of active\nreturn\nExpected benchmark return\nStandard deviation of\nbenchmark returns\nRisk-free rate\n2.3%\n7.8%\n11.0%\n23.0%\n3.0%\nNext, Phillips meets with Archana Singh, portfolio manager for an actively-managed\ncorporate bond fund. Singh makes the following two statements:\nStatement 1:\nInvestment constraints have reduced the correlation between my\nactive weights and my forecasted active returns, resulting in a\nlower information ratio.\"\nStatement 2:\n\"Ex-post, the portfolio's return variability is comprised of variation\ndue to realized information coefficient as well as variation due to\nthe constraints imposed on the manager.\"\nPhillips is asked to prepare a presentation for Mrs. R. Zingler, a relative of the\nDominicks. Phillips plans to recommend to Zingler the small-cap equity portfolio\ndescribed in Exhibit 1: Small-Cap Equity Fund—Selected Information. Upon\nlearning that Zingler would like to limit her active risk to 5%, Phillips creates a new\nportfolio by combining the Small-cap equity portfolio with its benchmark in order to\nmeet Zingler's investment constraint."
+    },
+    {
+      "id": "Schweser_Mock_6_q35",
+      "questionNumber": 35,
+      "questionId": "1511436",
+      "source": "Schweser Mock 6",
+      "topic": "Portfolio Management",
+      "vignette": "Mary Phillips, CFA, was recently hired to the team that manages the Dominick Trust\n(DT), a USD 220 million family-owned portfolio. The DT portfolio consists of several\nfunds with diversified holdings. Recently, DT has been considering the possibility of\ntaking further advantage of its fund managers' abilities by additionally managing\noutside money.\nDuring her first week on the job, Phillips sets up appointments with several fund\nmanagers to get an overview of the different approaches to portfolio management\nthat are employed at DT. First, she meets with Andrew Kapp, fund manager for an\nactively managed small-cap equity fund. Exhibit 1: Small-Cap Equity Fund—\nSelected Information provides information about the fund and its benchmark.\nExhibit 1: Small-Cap Equity Fund—Selected Information\nExpected active return\nStandard deviation of active\nreturn\nExpected benchmark return\nStandard deviation of\nbenchmark returns\nRisk-free rate\n2.3%\n7.8%\n11.0%\n23.0%\n3.0%\nNext, Phillips meets with Archana Singh, portfolio manager for an actively-managed\ncorporate bond fund. Singh makes the following two statements:\nStatement 1:\nInvestment constraints have reduced the correlation between my\nactive weights and my forecasted active returns, resulting in a\nlower information ratio.\"\nStatement 2:\n\"Ex-post, the portfolio's return variability is comprised of variation\ndue to realized information coefficient as well as variation due to\nthe constraints imposed on the manager.\"\nPhillips is asked to prepare a presentation for Mrs. R. Zingler, a relative of the\nDominicks. Phillips plans to recommend to Zingler the small-cap equity portfolio\ndescribed in Exhibit 1: Small-Cap Equity Fund—Selected Information. Upon\nlearning that Zingler would like to limit her active risk to 5%, Phillips creates a new\nportfolio by combining the Small-cap equity portfolio with its benchmark in order to\nmeet Zingler's investment constraint.",
+      "vignetteId": "Schweser_Mock_6_v33-36",
+      "question": "Singh's statement 2 is best described as:",
+      "options": {
+        "A": "correct",
+        "B": "incorrect about the portfolio’s return variability being partly comprised of variation due to realized information coefficient",
+        "C": "incorrect about the portfolio’s return variability being partly comprised of variation due to constraints imposed on the manager"
+      },
+      "correctAnswer": "A",
+      "explanation": "Singh's statement 2 is correct. Ex-post, an active portfolio's return variance, can be\ndecomposed into variation due to realized information coefficient and variation due\nto constraint-induced noise.",
+      "module": "Module 40.4",
+      "los": "LOS 40.f",
       "vignetteImages": [
         "data/exhibits/Schweser_Mock_6_vig_q33-36_p0.png",
         "data/exhibits/Schweser_Mock_6_vig_q33-36_p1.png"
@@ -9581,7 +9767,8 @@
       "question": "Lee paid US$500 for the dinner with Mack at the steakhouse. Which of the following is\n\nmost consistent with the CFA Institute's Standards?",
       "options": {
         "A": "No violation of the CFA Institute’s Code and Standards has occurred",
-        "B": "Mack has violated the CFA Institute’s Standards of Professional Conduct. C) The Code and Standards do not state any specific dollar amounts, so it is unclear whether a violation has occurred"
+        "B": "Mack has violated the CFA Institute’s Standards of Professional Conduct",
+        "C": "The Code and Standards do not state any specific dollar amounts, so it is unclear whether a violation has occurred"
       },
       "correctAnswer": "B",
       "explanation": "Under Standard I(B): Professionalism – Independence and Objectivity, Mack's\nobjectivity may be impeded when he accepts the expensive dinner from Lee. Mack\ncould be accused of giving favorable treatment to Lee in return for the meal.\nEven though Lee and Mack are old friends, since the main purpose of the dinner was\nto discuss business, several violations have occurred.\nMack is required to seek approval from his supervisor before accepting.\nMack should have declined the dinner or paid for half the bill to avoid the\nappearance that his independence and objectivity may have been compromised.\nThe standards are particularly sensitive to members receiving gifts from a non-client\nwhen the gift giver (e.g., a broker) has incentive to influence a member's (e.g., an\ninvestment manager) behavior.\nThe best answer is, therefore, that Mack has violated the CFA Institute's Standards\nof Professional Conduct.",
@@ -10553,7 +10740,8 @@
       "question": "Is Bravo's regulatory compliance policy consistent with the CFA Institute's Standards\nof Professional Conduct?",
       "options": {
         "A": "Yes",
-        "B": "No, because the policy does not cover every employee. C) No, because Bravo is required to adopt the CFA Institute’s Standards of Professional Conduct"
+        "B": "No, because the policy does not cover every employee",
+        "C": "No, because Bravo is required to adopt the CFA Institute’s Standards of Professional Conduct"
       },
       "correctAnswer": "B",
       "explanation": "Standard IV(B) – Responsibilities of Supervisors states that any employee that has a\nsupervisory role (not just portfolio managers) must ensure that the employees\nsubject to their supervision or authority comply with all laws, rules, and regulations.\nWhile firm-wide adoption of standards is recommended, it is not required.",
